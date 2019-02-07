@@ -5,6 +5,9 @@ Here's all the code and examples from my book __[Data Science from Scratch](http
 
 **July 2018: I am currently working on the second edition. It will be based on Python 3.6, will have much cleaner code, and will contain expanded coverage of deep learning, NLP, and whatever else I feel like adding. Stay tuned.**
 
+
+ # this is a great introdution 
+ 
 Each can be imported as a module, for example (after you cd into the /code directory):
 
 ```python
